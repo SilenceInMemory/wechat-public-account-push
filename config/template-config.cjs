@@ -64,11 +64,11 @@ const TEMPLATE_CONFIG = [
     
       --- 你喜欢的 --- 
     
-      🌟{{comprehensive_horoscope.DATA}}
-      💓{{love_horoscope.DATA}}
-      💪{{career_horoscope.DATA}}
-      💰{{wealth_horoscope}}
-      🍜{{healthy_horoscope}}
+      🌟{{comprehensive_horoscope.DATA}}\n
+      💓{{love_horoscope.DATA}}\n
+      💪{{career_horoscope.DATA}}\n
+      💰{{wealth_horoscope.DATA}}\n
+      🍜{{healthy_horoscope.DATA}}
     
       --- 嘿嘿嘿 ---
     

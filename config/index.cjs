@@ -28,6 +28,7 @@ const USER_CONFIG = {
       useTemplateId: '0003',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '07-17',
+      horoscopeDateType: '明日',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
