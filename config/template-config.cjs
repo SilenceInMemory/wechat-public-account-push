@@ -64,13 +64,17 @@ const TEMPLATE_CONFIG = [
     
       --- 你喜欢的 --- 
     
-      🌟{{comprehensive_horoscope.DATA}} 
+      🌟{{comprehensive_horoscope.DATA}}
+      💓{{love_horoscope.DATA}}
+      💪{{career_horoscope.DATA}}
+      💰{{wealth_horoscope}}
+      🍜{{healthy_horoscope}}
     
-      --------------------
+      --- 嘿嘿嘿 ---
     
       你就是未来的中级经济师！ 
     
-                          FROM 爱你的弟弟
+                          FROM 爱你的弟弟🐶
     `
   }
 ]
