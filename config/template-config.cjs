@@ -52,6 +52,27 @@ const TEMPLATE_CONFIG = [
       失败用户: {{fail_post_ids.DATA}}
     `
   },
+  {
+    id: '0003',
+    title: '宝宝，该学习啦',
+    desc: `
+      今天是我们在一起💗的第{{love_day.DATA}}天~ 
+
+      虽然但是，现在不是想我的时候哦~ 
+    
+      除非，本周的学习任务📑提前完成啦！ 
+    
+      --- 你喜欢的 --- 
+    
+      🌟{{comprehensive_horoscope.DATA}} 
+    
+      --------------------
+    
+      你就是未来的中级经济师！ 
+    
+                          FROM 爱你的弟弟
+    `
+  }
 ]
 
 module.exports = TEMPLATE_CONFIG
